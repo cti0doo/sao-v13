@@ -1,0 +1,4 @@
+[submodule "cti0doo/0doo"]
+	path = cti0doo/0doo
+	url = git@github.com:cti0doo/0doo.git
+	branch = master
